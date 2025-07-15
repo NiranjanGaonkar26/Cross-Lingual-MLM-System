@@ -1,3 +1,6 @@
 # Cross-Lingual-MLM-System
 
-To run the project, run the following command: streamlit run app.py
+Install the required packages from assests/requirements.txt in your environment before running the application
+pip install -r requirements.txt
+
+To run the application, run the following command: streamlit run app.py
